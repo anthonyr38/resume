@@ -1,0 +1,31 @@
+Heading
+
+Anthony L. Rodriguez
+305-967-0142
+anthonyr38@protron.me
+
+Summary
+
+Currently studying software engineering.
+
+Skills
+
+C#
+
+Education
+
+TrueCoders Advanced Technical Program 2023
+
+-C#
+
+Certifications
+
+-A+ Certified
+-Network+ Certified
+
+Projects
+
+-Working on it
+
+
+
